@@ -1,0 +1,16 @@
+table {
+    border: solid 2px rgb(81, 81, 81);
+}
+
+
+th {
+    border: solid 2px rgb(81, 81, 81);
+}
+
+td {
+    border: solid 2px rgb(81, 81, 81);
+}
+
+.bold {
+    font-weight: bold;
+}
